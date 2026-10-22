@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳40,000 - ৳60,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "frontend"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳50,000 - ৳80,000",
+    "location": "Chattogram, Bangladesh",
+    "field": "backend"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Designer",
+    "jobType": "Remote",
+    "salaryRange": "৳35,000 - ৳55,000",
+    "location": "Remote",
+    "field": "design"
+  },
+  {
+    "id": 4,
+    "title": "React.js Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳45,000 - ৳70,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "frontend"
+  },
+  {
+    "id": 5,
+    "title": "Node.js Developer",
+    "jobType": "Contract",
+    "salaryRange": "৳60,000 - ৳90,000",
+    "location": "Remote",
+    "field": "backend"
+  },
+  {
+    "id": 6,
+    "title": "Web Designer",
+    "jobType": "Part-time",
+    "salaryRange": "৳20,000 - ৳35,000",
+    "location": "Sylhet, Bangladesh",
+    "field": "design"
+  },
+  {
+    "id": 7,
+    "title": "Next.js Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳50,000 - ৳85,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "frontend"
+  },
+  {
+    "id":8,
+    "title": "Python Backend Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳55,000 - ৳90,000",
+    "location": "Remote",
+    "field": "backend"
+  },
+  {
+    "id": 9,
+    "title": "Product Designer",
+    "jobType": "Full-time",
+    "salaryRange": "৳45,000 - ৳75,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "design"
+  },
+  {
+    "id": 10,
+    "title": "Junior Frontend Developer",
+    "jobType": "Internship",
+    "salaryRange": "৳10,000 - ৳20,000",
+    "location": "Rajshahi, Bangladesh",
+    "field": "frontend"
+  },
+  {
+    "id": 11,
+    "title": "Java Backend Engineer",
+    "jobType": "Full-time",
+    "salaryRange": "৳70,000 - ৳110,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "backend"
+  },
+  {
+    "id": 12,
+    "title": "Graphic Designer",
+    "jobType": "Freelance",
+    "salaryRange": "৳15,000 - ৳40,000",
+    "location": "Remote",
+    "field": "design"
+  },
+  {
+    "id": 13,
+    "title": "Vue.js Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳40,000 - ৳65,000",
+    "location": "Khulna, Bangladesh",
+    "field": "frontend"
+  },
+  {
+    "id": 14,
+    "title": "PHP Laravel Developer",
+    "jobType": "Contract",
+    "salaryRange": "৳45,000 - ৳75,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "backend"
+  },
+  {
+    "id": 15,
+    "title": "Mobile App UI Designer",
+    "jobType": "Remote",
+    "salaryRange": "৳30,000 - ৳50,000",
+    "location": "Remote",
+    "field": "design"
+  },
+  {
+    "id": 16,
+    "title": "Angular Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳50,000 - ৳80,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "frontend"
+  },
+  {
+    "id": 17,
+    "title": "Django Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳55,000 - ৳85,000",
+    "location": "Remote",
+    "field": "backend"
+  },
+  {
+    "id": 18,
+    "title": "Visual Designer",
+    "jobType": "Part-time",
+    "salaryRange": "৳25,000 - ৳40,000",
+    "location": "Chattogram, Bangladesh",
+    "field": "design"
+  },
+  {
+    "id": 19,
+    "title": "Junior React Developer",
+    "jobType": "Internship",
+    "salaryRange": "৳12,000 - ৳22,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "frontend"
+  },
+  {
+    "id": 20,
+    "title": "Express.js Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳45,000 - ৳70,000",
+    "location": "Remote",
+    "field": "backend"
+  },
+  {
+    "id": 21,
+    "title": "UX Researcher",
+    "jobType": "Full-time",
+    "salaryRange": "৳40,000 - ৳65,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "design"
+  },
+  {
+    "id": 22,
+    "title": "WordPress Developer",
+    "jobType": "Freelance",
+    "salaryRange": "৳20,000 - ৳45,000",
+    "location": "Remote",
+    "field": "frontend"
+  },
+  {
+    "id": 23,
+    "title": "MongoDB Database Developer",
+    "jobType": "Contract",
+    "salaryRange": "৳50,000 - ৳80,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "backend"
+  },
+  {
+    "id": 24,
+    "title": "Interaction Designer",
+    "jobType": "Full-time",
+    "salaryRange": "৳35,000 - ৳60,000",
+    "location": "Remote",
+    "field": "design"
+  },
+  {
+    "id": 25,
+    "title": "Full Stack Developer",
+    "jobType": "Full-time",
+    "salaryRange": "৳60,000 - ৳100,000",
+    "location": "Dhaka, Bangladesh",
+    "field": "backend"
+  }
+]
